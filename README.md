@@ -23,3 +23,11 @@ pusula_seyahat_rehberi/
 ├── style.css           → Tüm görsel stiller (renk paleti, tipografi, grid/flex)
 ├── HATALAR.md          → Bulunan hatalar ve çözüm notları
 └── README.md           → Proje dokümantasyonu (bu dosya)
+
+
+---
+![proje](giriş.png)
+![proje](kimiz.png)
+![proje](rota.png)
+![proje](yorum.png)
+![proje](iletişim.png)
